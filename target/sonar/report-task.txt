@@ -1,0 +1,6 @@
+projectKey=org.acme:tests-with-coverage-quickstart
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=org.acme%3Atests-with-coverage-quickstart
+ceTaskId=AYmNI9ILXIRA93WsHzqw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYmNI9ILXIRA93WsHzqw
